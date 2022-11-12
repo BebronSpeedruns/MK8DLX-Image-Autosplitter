@@ -1,0 +1,31 @@
+                                       (WELCOME TO THE MK8DLX IMAGE AUTOSPLITTER)
+                              
+                    
+                                                                       How To Use:
+
+1: Open AutoSplit.exe and OBS.
+
+2: When in OBS, Right Click on your Video Capture Device (Or Game Capture)
+and select eiether 
+Full Screen Projector 
+or 
+Windowed Projector!
+
+3: Go Back to AutoSplit, And pull up that Window Or Full Screen Projector that you had, Then pull up AutoSplit infront of it!
+
+4: IN AUTOSPLIT PRESS SELECT WINDOW AND CLICK ON THE PROJECTOR!
+
+5: The game should show up on the Capture Region side, if so then you can choose a split image folder now!
+
+6: Click on Browse, Then go to the folder of this Autosplitter, Then go to the Categories Folder!
+Now you can choose what category you are running, After Choosing, Click Select Folder!
+
+7: After you Click Select Folder, You will be brought back to Autosplit: Click On Reload Start Image! Then Just Start Playing: The AutoSplitter Will Do Everything!
+
+
+
+
+
+                                                                      Made By Bebron 
+
+                                                        Special Thanks to: Vike for the idea!
